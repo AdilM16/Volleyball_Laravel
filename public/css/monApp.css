@@ -1,0 +1,23 @@
+.greenLime{
+    color: greenyellow !important;
+    margin: 0;
+}
+.sctionHome{
+    text-align: center;
+    border:solid greenyellow 1px;
+    margin: auto;
+    width: 80%;
+}
+.Mnavbar{
+    /* background: rgb(124, 123, 123);
+    background: linear-gradient(0deg,rgb(172, 255, 47) 0%, (#33393f)100%); */
+    background: rgb(52,58,64);
+    background: linear-gradient(0deg, rgb(52,58,64) 0%, rgb(145, 153, 145) 100%);
+    margin-bottom: 20px;
+}
+.Mcard{
+    margin-top: 100px;
+    box-shadow: 5px 0 .6em rgb(238, 100, 100), -5px 0 .6em greenyellow;
+    width: max-content;
+    padding: 0;
+}
